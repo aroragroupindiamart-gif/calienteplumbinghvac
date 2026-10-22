@@ -1,55 +1,71 @@
 {
   "intro": [
-    "When you need {kw} in {cityName}, you need a trusted professional who responds fast. Our licensed {nichePluralLower} are ready 24 hours a day, 7 days a week.",
-    "{cityName} residents rely on {brandName} for dependable {kw}. Our certified {nichePluralLower} serve the entire {cityName} area with same-day service available.",
-    "Don't let a {nicheLower} problem disrupt your life. Our {cityName} {kw} specialists have the tools and experience to resolve any issue quickly — the first time.",
-    "For {kw} in {cityName}, our team of licensed, insured {nichePluralLower} brings years of hands-on experience and guaranteed workmanship to every job."
+    "Fast, frictionless {kw} in {cityName}—one tap connects you with top-rated licensed {nichePluralLower}.",
+    "Need rapid {kw} in {cityName}? Get instant booking, upfront pricing, and immediate dispatch with {brandName}.",
+    "Zero hassle, zero waiting. {brandName} delivers modern, streamlined {kw} tailored for busy {cityName} property owners.",
+    "Plumbing emergencies solved with maximum speed. Tap to dispatch a certified technician to your {cityName} door now.",
+    "Experience effortless {kw} service in {cityName}—rapid confirmation, direct updates, and same-day turnaround.",
+    "Skip the phone tag and endless delays. {brandName} brings lightning-fast, high-efficiency {kw} directly to {cityName}."
   ],
   "body1": [
-    "Our {cityName} {nichePluralLower} bring years of hands-on experience in {kw}. Every technician is fully licensed, insured, and background-checked. We use professional-grade equipment to ensure lasting results.",
-    "For {kw} in {cityName}, no job is too big or too small. We handle everything from routine maintenance to complex emergency repairs, always delivering the highest standard of workmanship.",
-    "{brandName} has built a reputation in {cityName} by providing honest, transparent {kw} at fair prices. We give upfront quotes with no hidden fees, and our technicians explain every step before they begin work.",
-    "When it comes to {kw} in {cityName}, our crew arrives on time, respects your property, and cleans up completely before leaving. All work is backed by a written guarantee."
+    "We have stripped away the friction from home services. Booking {kw} in {cityName} takes less than sixty seconds from your mobile phone.",
+    "Our streamlined dispatch system instantly routes the nearest certified service vehicle directly to your {cityName} address, cutting wait times drastically.",
+    "Every technician arrives equipped with digital diagnostic tools, instant paperless quoting, and mobile card readers for smooth, seamless transactions.",
+    "We diagnose problems swiftly, present straightforward digital options on a mobile tablet, and commence repairs immediately upon your approval.",
+    "Our crew carries all standard replacement cartridges, valves, and pipe fittings on-board, enabling single-visit resolutions for over 90% of service calls.",
+    "We focus on rapid, permanent fixes that get your water flowing and your life back on track without consuming your entire day."
   ],
   "body2": [
-    "Whether you're dealing with an urgent situation or planning a scheduled {kw} project in {cityName}, we make the process easy. Call us any time, day or night.",
-    "Our {kw} services in {cityName} are backed by a workmanship warranty. We stand behind every job, ensuring you have peace of mind long after our technicians leave.",
-    "When you choose {brandName} for {kw} in {cityName}, you're choosing a team that treats your property like their own. We clean up after every job and minimize disruption.",
-    "{cityName} residents trust us for {kw} because we show up on time, price jobs fairly, and never cut corners. Call {phoneNumber} to schedule service."
+    "Track your technician's arrival in real-time with automated mobile notifications and direct access to your service team throughout {cityName}.",
+    "All invoices, warranties, and before-and-after photo records are delivered directly to your email or text message for effortless digital record-keeping.",
+    "We stand firmly behind our speed with rock-solid craftsmanship warranties covering all {kw} installations and repairs in {cityName}.",
+    "Clear, flat-rate digital pricing means you see the exact total before we touch a single tool—no guesswork, no hidden labor fees.",
+    "Fast, dependable plumbing service is just a tap away—call {phoneNumber} now for instant dispatch to your {cityName} home.",
+    "Join thousands of modern homeowners in {cityName} who enjoy fast, reliable, one-thumb plumbing solutions with {brandName}."
   ],
   "trustBulletSets": [
     [
-      "Fully licensed and insured {kw} technicians",
-      "24/7 emergency response — no extra charge for nights or weekends",
-      "Upfront, transparent pricing — no hidden fees",
-      "All work backed by our workmanship guarantee",
-      "Locally trusted in {cityName}"
+      "Instant Mobile Booking & Dispatch",
+      "Real-Time Arrival Notifications",
+      "Upfront Flat-Rate Digital Quotes",
+      "Paperless Invoicing & Warranties",
+      "Single-Visit Resolution Focus"
     ],
     [
-      "Same-day {kw} service available in {cityName}",
-      "Background-checked technicians — safe for your home and family",
-      "Free estimates on major jobs",
-      "We use only quality, code-compliant materials",
-      "Eco-friendly options available upon request"
+      "Licensed & Background-Checked Pros",
+      "Rapid Transit Across {cityName}",
+      "Fully Stocked Mobile Inventory",
+      "Contactless Payment Options",
+      "Zero Hidden Surcharges"
     ],
     [
-      "Rapid response — most jobs dispatched within the hour",
-      "{cityName} residents have trusted us for years",
-      "Expert {kw} diagnosis — right the first time",
-      "Flexible appointment times including evenings and weekends",
-      "Fully equipped for on-the-spot repairs"
+      "Modern Diagnostic Technology",
+      "Swift Same-Day Plumbing Relief",
+      "Rock-Solid Workmanship Guarantee",
+      "Direct Technician Communication",
+      "Frictionless Customer Experience"
+    ],
+    [
+      "Speedy Response for Busy Lifestyles",
+      "Clean, Efficient Work Habits",
+      "Instant Digital Receipt Delivery",
+      "24/7 Mobile Availability",
+      "Tap to Connect Instantly at {phoneNumber}"
     ]
   ],
   "faqCostAnswers": [
-    "The cost of {kw0} in {cityName} varies based on the scope of work. We provide free estimates on all major jobs and upfront quotes before any work begins. Call {phoneNumber} for a quote.",
-    "Pricing for {kw0} in {cityName} depends on factors like the severity and access required. We offer competitive, transparent pricing. Call us at {phoneNumber} for an accurate estimate."
+    "Get clear, flat-rate pricing for {kw0} in {cityName} delivered straight to your phone before any work starts. No surprises, no hidden fees. Call {phoneNumber} for an instant quote.",
+    "We believe pricing should be fast and simple. Our digital pricing for {kw0} includes all parts, labor, and warranty coverage upfront. Tap {phoneNumber} to check rates.",
+    "Transparent, competitive rates for {kw0} throughout {cityName}. Get upfront price confirmation quickly by dialing {phoneNumber}."
   ],
   "faqArrivalAnswers": [
-    "For emergency {kw1} calls in {cityName}, we typically dispatch a technician within 30–60 minutes. For scheduled appointments, we offer same-day and next-day availability.",
-    "Our {cityName} {nichePluralLower} are strategically located for fast response. Emergency calls are typically answered within the hour."
+    "Our automated dispatch routes the closest technician in {cityName}, often reaching your home within 30 to 60 minutes for urgent calls.",
+    "You receive instant text notifications with live ETA updates so you never have to sit around waiting in {cityName}.",
+    "Same-day service slots are available daily across {cityName} for fast, scheduled convenience."
   ],
   "faqBeforeArrivalAnswers": [
-    "For most service calls, just ensure the technician can access the work area. If there is an active problem, try to isolate it to minimize damage. Our dispatcher can walk you through any emergency steps.",
-    "Clear the work area so our technician has room to work safely. Our dispatcher can walk you through any emergency steps when you call {phoneNumber}."
+    "Keep your phone handy for our automated dispatch text, and make sure someone 18 or older is available to approve the digital quote.",
+    "If you are dealing with an active water leak, shut off the fixture valve quickly while our technician is in transit.",
+    "Clear a straightforward path to the plumbing fixture so our technician can get straight to work the moment they arrive."
   ]
 }
